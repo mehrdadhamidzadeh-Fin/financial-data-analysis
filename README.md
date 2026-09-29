@@ -17,3 +17,7 @@ This repository contains Python Jupyter notebooks for quantitative financial ana
 ## Tech Stack & Tools
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn
+## pdf file
+- * Full Analytical Report available:
+    ** femli-financial-analysis-report.pdf
+    ** 
